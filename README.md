@@ -44,7 +44,7 @@ Below is an example of how to use the Roulette Simulator Library in a Python scr
 from roulette import roulette, bet_on_color
 
 # create a roulette game instance
-game = Roulette()
+game = roulette()
 
 # place a color bet on 'black' with an amount of 20
 result = game.bet(amount=20, bet_type="color", selection="black")
