@@ -10,6 +10,9 @@ class roulette:
         self.previous.pop(0)
         self.previous.append(random.randint(0, 36))
 
+    def get_previous(self):
+        return list(self.previous)
+
     def bet(self, amount, bet_type, selection):
         self.spin()  # spin the wheel before processing the bet
 
