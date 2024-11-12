@@ -1,5 +1,5 @@
 import random
-from bets import *
+from .bets import *
 
 class roulette:
     def __init__(self):
