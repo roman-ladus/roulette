@@ -30,7 +30,7 @@ To install the library locally:
    cd roulette
    ```
 
-5. Install using `pip`:
+5. Install using `pip` :
    
    ```bash
    pip install .
