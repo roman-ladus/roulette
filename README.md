@@ -19,14 +19,19 @@ A Python library that simulates a roulette game with various types of bets, allo
 To install the library locally:
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/roman-ladus/roulette.git
    ```
-2. Navigate to the library directory:
+   
+3. Navigate to the library directory:
+   
    ```bash
    cd roulette
    ```
-3. Install using `pip`:
+
+5. Install using `pip`:
+   
    ```bash
    pip install .
    ```
